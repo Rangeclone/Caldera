@@ -1,1 +1,21 @@
-test
+<font size="22"><b>Welcome to Caldera</b></font>
+<font color="#BBBBBB"><i>Read these before you play. Breaking them can get you kicked, banned or job-banned.</i></font>
+
+<font size="18" color="#FFD966"><b>General</b></font>
+<b>1.</b> Be respectful. No harassment, slurs, or targeting other players out of character.
+<b>2.</b> No exploiting, glitching through walls, or abusing bugs. Report bugs to staff instead.
+<b>3.</b> No spamming chat, radio or voice chat.
+<b>4.</b> Follow the Roblox Terms of Use at all times.
+
+<font size="18" color="#FFD966"><b>Roleplay</b></font>
+<b>5.</b> Stay in character. Keep out-of-character talk short and use <b>//</b> before it.
+<b>6.</b> No <font color="#FF6E6E"><b>RDM</b></font> (random deathmatch). You need a roleplay reason to attack someone.
+<b>7.</b> No <font color="#FF6E6E"><b>VDM</b></font>, combat logging, or leaving to dodge an arrest.
+<b>8.</b> No <font color="#FF6E6E"><b>FailRP</b></font>. Act like your situation is real: if you are cuffed at gunpoint, comply.
+<b>9.</b> Inmates must follow the routine unless they are roleplaying a riot or escape.
+
+<font size="18" color="#FFD966"><b>Teams</b></font>
+<b>10.</b> Do not join a team just to disrupt it.
+<b>11.</b> Do not use team tools or keycards for anything other than their purpose.
+
+<font color="#BBBBBB">Staff decisions are final. If you think something was unfair, appeal in our community server.</font>
