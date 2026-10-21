@@ -13,10 +13,11 @@
 <b>7.</b> No <font color="#FF6E6E"><b>NITRP</b></font>, (no intention to rp).
 <b>8.</b> No <font color="#FF6E6E"><b>FailRP</b></font>. Act like your situation is real: if you are cuffed at gunpoint, comply.
 <b>9.</b> Inmates must follow the routine unless they are roleplaying a riot or escape.
-<b>10.</b> No <font color="#FF6E6E"><b>NLR</b></font>, (new life rule) You cannot remember anything from your previous life, no meta gaming.
+<b>10.</b> No Breaking <font color="#FF6E6E"><b>NLR</b></font>, (new life rule) You cannot remember anything from your previous life, no meta gaming.
+<b>11.</b> No Breaking <font color="#FF6E6E"><b>LTAP</b></font>, (leave to avoid punishment) This includes leaving whilst cuffed, or leaving to avoid being arrested / captured.
 
 <font size="18" color="#FFD966"><b>Teams</b></font>
-<b>11.</b> Do not join a team just to disrupt it or NITRP.
-<b>12.</b> Do not use team tools or keycards for anything other than their purpose.
+<b>12.</b> Do not join a team just to disrupt it or NITRP.
+<b>13.</b> Do not use team tools or keycards for anything other than their purpose.
 
 <font color="#BBBBBB">Staff decisions are final. If you think something was unfair, appeal in our community server. 8uFrK8QTmz</font>
